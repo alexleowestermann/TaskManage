@@ -20,6 +20,7 @@ Runs at: http://localhost:8080
 ```bash
 cd client
 npm install
+npm install axios
 npm start
 ```
 Runs at: http://localhost:3000
